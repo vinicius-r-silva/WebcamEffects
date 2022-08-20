@@ -1,0 +1,3 @@
+[submodule "RobustVideoMatting"]
+	path = RobustVideoMatting
+	url = https://github.com/vinicius-r-silva/RobustVideoMatting
